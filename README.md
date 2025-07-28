@@ -108,7 +108,7 @@ Data columns (total 16 columns):
 
 ## Technical Implementation
 
-![GitHub Workflow Status](https://img.shields.io/github/actions/workflow/status/yourusername/credit-risk-model/ci.yml) 
+![GitHub Workflow Status](https://img.shields.io/github/actions/workflow/status/anaol216/credit-risk-model/ci.yml) 
 ![Python Version](https://img.shields.io/badge/python-3.10%2B-blue)
 ![License](https://img.shields.io/badge/license-MIT-green)
 
@@ -154,8 +154,8 @@ async def predict_risk(input: RiskInput):
 
 ### Installation
 ```bash
-git clone https://github.com/yourusername/credit-risk-model.git
-cd credit-risk-model
+git clone https://github.com/anaol216/Credit-Risk-Probability-Model-for-Alternative-Data-
+cd Credit-Risk-Probability-Model-for-Alternative-Data-
 python -m venv venv
 source venv/bin/activate  # Linux/Mac
 venv\Scripts\activate     # Windows
